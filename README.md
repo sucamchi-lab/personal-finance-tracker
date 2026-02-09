@@ -20,8 +20,5 @@ A simple and intuitive personal finance tracker built with Flask, SQLite, and va
 
 ## Installation
 
-1. Clone the repository:
+Just clone the repository and open it on your local host!
 
-git clone https://github.com/sucamchi-lab/personal-finance-tracker.git
-
-cd personal-finance-tracker
