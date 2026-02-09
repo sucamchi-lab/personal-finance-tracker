@@ -23,4 +23,5 @@ A simple and intuitive personal finance tracker built with Flask, SQLite, and va
 1. Clone the repository:
    
 git clone https://github.com/YOUR_USERNAME/personal-finance-tracker.git
+
 cd personal-finance-tracker
