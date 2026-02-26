@@ -11,13 +11,15 @@
 
 <br/>
 
-<img src="https://img.icons8.com/3d-fluency/256/money-bag-euro.png" width="110" alt="Finance icon" />
-
-<br/>
-
 **A simple, intuitive personal finance app built with Flask + SQLite to log transactions, monitor your balance, and stay financially organized.**
 
 [Motivation](#-motivation) · [Features](#-features) · [Quick Start](#-quick-start) · [Usage](#-usage) · [Contributing](#-contributing)
+
+<br/>
+
+<img src="assets/app-screenshot.png" width="850" alt="Personal Finance Tracker — App Screenshot" />
+
+_A quick view of your finance dashboard with transactions, categories, and summary totals._
 
 </div>
 
